@@ -1,0 +1,6 @@
+{
+	"mode" : "thread",
+	"galagoJobDir" : "./data/tmp",
+	"distrib" : 5,
+	"deleteJobDir" : false
+}

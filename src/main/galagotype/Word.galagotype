@@ -1,0 +1,9 @@
+package edu.umass.ciir.tupleflow.example.types;
+
+type Word {
+	String word;
+	long count;
+	
+	order: +word;
+        order: -count +word;
+}
